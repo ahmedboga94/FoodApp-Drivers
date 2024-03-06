@@ -1,6 +1,7 @@
-# foodappdrivers
+# FootApp Drivers
 
-A new Flutter project.
+- The Project based on Firebase and no State Management methods is used
+- This app for Drivers to deliver orders to customers by google maps
 
 ## Getting Started
 
